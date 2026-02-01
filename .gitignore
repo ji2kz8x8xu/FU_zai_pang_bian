@@ -1,0 +1,22 @@
+.env
+
+# === Python 編譯與暫存檔 ===
+__pycache__/
+*.pyc
+
+# === 虛擬環境 ===
+venv/
+.venv/
+env/
+
+# === 執行時產生的資料 (選用) ===
+chat_history.json
+*.log
+
+# === 作業系統與編輯器設定 (選用) ===
+# Mac 系統產生的垃圾檔
+.DS_Store
+# VS Code 設定檔 (視個人習慣，通常建議忽略)
+.vscode/
+# PyCharm 設定檔
+.idea/

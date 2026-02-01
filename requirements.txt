@@ -1,0 +1,17 @@
+# 福在旁邊 - 依賴套件列表
+
+# UI 框架
+PyQt6>=6.6.0
+PyQt6-Qt6>=6.6.0
+
+# AI 相關
+google-generativeai>=0.3.0
+
+# 語音識別
+SpeechRecognition>=3.10.0
+sounddevice>=0.4.6
+numpy>=1.24.0
+PyAudio>=0.2.13
+
+# 其他工具
+python-dotenv>=1.0.0
