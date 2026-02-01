@@ -14,3 +14,9 @@
 * **Voice Input**: Support for speech-to-text input for hands-free interaction.
 * **Intelligent UI**: The chat window automatically positions itself to avoid screen edges and the taskbar.
 * **Auto-Collapse**: The ball automatically shrinks into a small tab when idle to save screen space.
+
+## 📝 Roadmap & TODOs
+
+- [ ] **Add Speech-to-Text (STT) feature**
+- [ ] **Implement persistent chat history**
+- [ ] **Expand documentation and usage guide**
